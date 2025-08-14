@@ -8,12 +8,12 @@ Write an arrow function getLength that returns the length of a given string.✔�
 
 Write an arrow function toCelsius that converts Fahrenheit to Celsius.✔️
 
-Write an arrow function getFirstElement that returns the first element from an array.
+Write an arrow function getFirstElement that returns the first element from an array.✔️
 
-Write an arrow function sumArray that returns the sum of all elements in an array.
+Write an arrow function sumArray that returns the sum of all elements in an array.✔️
 
-Write an arrow function filterEvenNumbers that returns an array of even numbers from a given array.
+Write an arrow function filterEvenNumbers that returns an array of even numbers from a given array.✔️
 
-Write an arrow function getMax that finds the largest number in an array.
+Write an arrow function getMax that finds the largest number in an array.✔️
 
-Write an arrow function repeatString that repeats a given string n times.
+Write an arrow function repeatString that repeats a given string n times.✔️
