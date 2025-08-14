@@ -1,12 +1,12 @@
-Rewrite greetUser from above as an arrow function.
+Rewrite greetUser from above as an arrow function.✔️
 
-Write an arrow function multiply that returns the product of two numbers.
+Write an arrow function multiply that returns the product of two numbers.✔️
 
-Write an arrow function isPositive that checks if a number is positive.
+Write an arrow function isPositive that checks if a number is positive.✔️
 
-Write an arrow function getLength that returns the length of a given string.
+Write an arrow function getLength that returns the length of a given string.✔️
 
-Write an arrow function toCelsius that converts Fahrenheit to Celsius.
+Write an arrow function toCelsius that converts Fahrenheit to Celsius.✔️
 
 Write an arrow function getFirstElement that returns the first element from an array.
 
