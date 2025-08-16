@@ -1,0 +1,10 @@
+Write a function processUserInput that takes a name and a callback, and the callback should display "Welcome, <name>".
+Write a function calculate that takes two numbers and a callback function (e.g., add, subtract, multiply) to perform the operation.
+Write a function filterNumbers that takes an array and a callback to filter the array based on a condition (e.g., only even numbers).
+Write a function forEachElement that takes an array and a callback and applies the callback to each element.
+Write a function delayedMessage that takes a message and a callback to display the message after 2 seconds.
+Write a function checkNumber that takes a number and two callbacks — one for if it’s even, another for if it’s odd.
+Write a function mapArray that takes an array and a callback to transform each element (e.g., multiply by 2).
+Write a function stringManipulator that takes a string and a callback to modify the string (e.g., reverse, uppercase).
+Write a function askQuestion that asks a question (string) and calls a callback with the user’s answer.
+Write a function fetchData that simulates getting data (using setTimeout) and then calls a callback with the data.
