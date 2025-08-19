@@ -1,0 +1,12 @@
+Object Methods Practice:
+
+1. Create an object car with properties (brand, model, year) and a method getDetails that returns "Brand: <brand>, Model: <model>, Year: <year>".
+2. Create an object person with a method introduce that prints "Hi, my name is <name> and I am <age> years old".
+3. Add a method isAdult to the person object that returns true if age ≥ 18, else false.
+4. Create a calculator object with methods add, subtract, multiply, and divide.
+5. Create a bankAccount object with properties balance and methods deposit(amount) and withdraw(amount).
+6. Create an object student with properties (name, marks) and a method getGrade that returns "Pass" if marks ≥ 35, otherwise "Fail".
+7. Add a method updateYear to the car object that increases the year by 1.
+8. Create an object rectangle with properties (length, width) and a method getArea that returns area.
+9. Create an object circle with a property radius and a method getCircumference.
+10. Create an object book with properties (title, author, pages) and a method getSummary that returns "Title: ..., Author: ..., Pages: ...".
