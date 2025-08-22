@@ -1,0 +1,39 @@
+Basic JSON:
+
+1. Create a JSON object for a student with properties: name, age, rollNo, and marks.
+2. Create a JSON object for a book with title, author, pages, and isAvailable.
+3. Create a JSON object for a car with brand, model, year, and colors (as an array).
+4. Create a JSON array of fruits with 5 fruit names.
+5. Create a JSON array of employees, where each employee has id, name, and salary.
+
+JSON with JavaScript:
+
+Convert a JS object { name: "Rahul", age: 22 } into JSON using JSON.stringify().
+Convert a JSON string back into a JS object using JSON.parse().
+Parse this JSON string into a JS object and access the city:
+{"name": "Amit", "age": 25, "city": "Hyderabad"}
+Convert a JSON object into a string and store it in localStorage.
+Retrieve the stored JSON string from localStorage and parse it back into an object.
+
+Nested JSON:
+
+Create a JSON object company with name, location, and employees (array of objects with id, name, position).
+Create a JSON object school with name, address, and students (array with student name, class, marks).
+Parse a nested JSON and access a property, e.g.:
+{
+  "person": {
+    "name": "Pavan",
+    "address": { "city": "Vijayawada", "pincode": 520001 }
+  }
+}
+👉 Access the pincode.
+
+JSON in Real Use:
+
+Convert an array of numbers [10, 20, 30] into JSON format.
+Convert a JSON string of products into JS objects and loop through them to display product names.
+Write a function getTotalMarks(jsonString) that parses a JSON string of student marks and returns the total.
+Write a function getAvailableBooks(jsonString) that filters out books with isAvailable = true.
+Simulate fetching JSON data (use setTimeout) and then parse it into JS.
+Create JSON data for a shopping cart (array of items with id, name, price, quantity) and calculate the total bill.
+Write JSON for a resume with name, contact, skills (array), and education (array of objects).
